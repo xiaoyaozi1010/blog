@@ -1,0 +1,3 @@
+[submodule "themes/nayo"]
+	path = themes/nayo
+	url = git@github.com:Lemonreds/hexo-theme-nayo.git
