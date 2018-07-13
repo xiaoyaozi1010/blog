@@ -79,8 +79,8 @@ theme: Nayo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/lizy-1010/lizy-1010.github.io
+  repo: https://github.com/lizy10mfk/lizy10mfk.github.io.git
   branch: master
-  name: lizy-1010
-  email: xiaoyaozhilzy@gmail.com
+  name: lizy10mfk
+  email: zhiyong.lizy@hotmail.com
 
